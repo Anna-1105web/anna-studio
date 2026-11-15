@@ -888,7 +888,7 @@ body.lock{overflow:hidden}
      форма НЕ надсилає дані й чесно про це повідомляє.
    ========================================================= */
 const CONFIG = {
-  formEndpoint: ""
+  formEndpoint: "/api/lead"   // серверна функція api/lead.js → Telegram (працює на Vercel)
 };
 
 /* ---------- Мови ---------- */
@@ -1034,7 +1034,7 @@ form.addEventListener("submit", async e => {
   const original = submitBtn.innerHTML;
   submitBtn.textContent = t("form.sending");
   try{
-    const res = await fetch(endpoint, {method:"POST", body:new FormData(form), headers:{Accept:"application/json"}});
+    const res = await fetch(endpoint, {method:"POST", body:JSON.stringify(Object.fromEntries(new FormData(form))), headers:{"Content-Type":"application/json", Accept:"application/json"}});
     if (!res.ok) throw new Error(res.status);
     const plan = planSelect.value;
     form.reset();
