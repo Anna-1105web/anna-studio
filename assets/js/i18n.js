@@ -99,10 +99,10 @@ window.I18N = {
     ru: "Фиксированные цены в евро"
   },
   "k016": {
-    uk: "7 концептів у портфоліо",
-    en: "7 concepts in the portfolio",
-    pl: "7 koncepcji w portfolio",
-    ru: "7 концептов в портфолио"
+    uk: "9 концептів у портфоліо",
+    en: "9 concepts in the portfolio",
+    pl: "9 koncepcji w portfolio",
+    ru: "9 концептов в портфолио"
   },
   "k017": {
     uk: "Вибрані роботи",
@@ -1147,6 +1147,84 @@ window.I18N = {
     en: "What does your business do, what kind of website do you need, are there examples you like?",
     pl: "Czym zajmuje się Twoja firma, jakiej strony potrzebujesz, czy masz przykłady, które Ci się podobają?",
     ru: "Чем занимается ваш бизнес, какой сайт нужен, есть ли примеры, которые нравятся"
+  },
+  "k191": {
+    uk: "Шоколад · Інтернет-магазин",
+    en: "Chocolate · Online store",
+    pl: "Czekolada · Sklep internetowy",
+    ru: "Шоколад · Интернет-магазин"
+  },
+  "k192": {
+    uk: "Шоколадне ательє: колекція з фільтрами, конструктор подарункової коробки з листівкою та адвент-календар.",
+    en: "Chocolate atelier: a filterable collection, a gift box builder with a greeting card and an advent calendar.",
+    pl: "Czekoladowe atelier: kolekcja z filtrami, kreator pudełka prezentowego z kartką i kalendarz adwentowy.",
+    ru: "Шоколадное ателье: коллекция с фильтрами, конструктор подарочной коробки с открыткой и адвент-календарь."
+  },
+  "k193": {
+    uk: "Конструктор коробки",
+    en: "Box builder",
+    pl: "Kreator pudełka",
+    ru: "Конструктор коробки"
+  },
+  "k194": {
+    uk: "Адвент-календар",
+    en: "Advent calendar",
+    pl: "Kalendarz adwentowy",
+    ru: "Адвент-календарь"
+  },
+  "k195": {
+    uk: "Оксамит (відкриється в новій вкладці)",
+    en: "Oksamyt (opens in a new tab)",
+    pl: "Oksamyt (otwiera się w nowej karcie)",
+    ru: "Оксамит (откроется в новой вкладке)"
+  },
+  "k196": {
+    uk: "Головний екран сайту шоколадного ательє «Оксамит» із цукерками ручної роботи",
+    en: "Hero section of the Oksamyt chocolate atelier website with handmade sweets",
+    pl: "Ekran główny strony czekoladowego atelier Oksamyt z ręcznie robionymi pralinkami",
+    ru: "Главный экран сайта шоколадного ателье «Оксамит» с конфетами ручной работы"
+  },
+  "k197": {
+    uk: "Техніка · Інтернет-магазин",
+    en: "Tech · Online store",
+    pl: "Elektronika · Sklep internetowy",
+    ru: "Техника · Интернет-магазин"
+  },
+  "k198": {
+    uk: "Магазин механічних клавіатур: конструктор збірки з живим прев'ю, графіки світчів і готові набори.",
+    en: "Mechanical keyboard store: a build configurator with a live preview, switch force charts and ready-made sets.",
+    pl: "Sklep z klawiaturami mechanicznymi: konfigurator z podglądem na żywo, wykresy przełączników i gotowe zestawy.",
+    ru: "Магазин механических клавиатур: конструктор сборки с живым превью, графики свитчей и готовые наборы."
+  },
+  "k199": {
+    uk: "Конструктор збірки",
+    en: "Build configurator",
+    pl: "Konfigurator",
+    ru: "Конструктор сборки"
+  },
+  "k200": {
+    uk: "Живе прев'ю",
+    en: "Live preview",
+    pl: "Podgląd na żywo",
+    ru: "Живое превью"
+  },
+  "k201": {
+    uk: "KLAVA (відкриється в новій вкладці)",
+    en: "KLAVA (opens in a new tab)",
+    pl: "KLAVA (otwiera się w nowej karcie)",
+    ru: "KLAVA (откроется в новой вкладке)"
+  },
+  "k202": {
+    uk: "Головний екран магазину механічних клавіатур KLAVA з інтерактивною клавіатурою",
+    en: "Hero section of the KLAVA mechanical keyboard store with an interactive keyboard",
+    pl: "Ekran główny sklepu z klawiaturami mechanicznymi KLAVA z interaktywną klawiaturą",
+    ru: "Главный экран магазина механических клавиатур KLAVA с интерактивной клавиатурой"
+  },
+  "k203": {
+    uk: "Оксамит",
+    en: "Oksamyt",
+    pl: "Oksamyt",
+    ru: "Оксамит"
   },
   "meta.title": {
     uk: "ANNA.STUDIO — веброзробниця Анна | Створення сайтів під ключ",
